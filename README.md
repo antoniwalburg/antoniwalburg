@@ -1,8 +1,8 @@
 
 # Hi there, I am Antek 👋
 
-### I am an Engineering Student and Future Software Developer 🙌
-
+### I am an 18 yo Engineering Student and Future Software Developer 🙌
+ 
 
 
 
