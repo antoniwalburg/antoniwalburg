@@ -7,7 +7,7 @@
 
 
 ## 🛠 Skills
-#### Python 🐍 Java 🏵 JavaScript 🐥 Spring 🍃 React 🐳 MySQL 🐼 Solidity 🐙
+#### Python 🐍 Java 🏵 JavaScript 🐥 Spring 🍃 React 🐳 MySQL 🐼 Solidity 🐙 Kafka 🍩
 
 
 ## 📧 Contact
