@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**antoniwalburg/antoniwalburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I am Antek 👋
 
-Here are some ideas to get you started:
+### I am an Engineering Student and Future Software Developer 🙌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠 Skills
+#### Python 🐍 Java 🏵 JavaScript 🐥 Spring 🍃 React 🐳 MySQL 🐼 Solidity 🐙
+
+
+## 📧 Contact
+
+#### If you have any feedback or want to contact with me, please reach out to us at antoni.walburg@gmail.com 📨
+
+
+## 🚀 About Me
+#### I'm currently learing everything 🌍
+
+
