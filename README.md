@@ -1,12 +1,7 @@
 
 # Hi there, I am Antek 👋
 
-### I am an 18 yo Engineering Student from Poland and Future Software Developer 🙌
- 
-
-
-
-## 🛠 Skills
+ ## 🛠 Skills
 #### Python 🐍 Java 🏵 JavaScript 🐥 Spring 🍃 React 🐳 MySQL 🐼 Solidity 🐙 Kafka 🍩
 
 
