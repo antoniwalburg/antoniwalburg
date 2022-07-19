@@ -2,7 +2,7 @@
 # Hi there, I am Antek 👋
 
  ## 🛠 Skills
-#### Python 🐍 Java 🏵 JavaScript 🍃 MySQL 🐼 Solidity 🐙 Kafka 🍩
+#### Python 🐍 Java 🏵 Solidity 🐙
 
 
 ## 📧 Contact
