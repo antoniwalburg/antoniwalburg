@@ -2,7 +2,7 @@
 # Hi there, I am Antek 👋
 
  ## 🛠 Skills
-#### Python 🐍 Java Script 🏵 React 👋 React-Native ⚛️ PHP & SQL 👴🏿
+#### Python 🐍 Java Script 🏵 React 👋 React-Native ⚛️ PHP & SQL 👴🏿 Node.js 🔙
 
 
 ## 📧 Contact
